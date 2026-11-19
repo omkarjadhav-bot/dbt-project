@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "project-files": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "D:\\bhagya\\dbt-practice\\dbt_gcp_project"
+      ]
+    }
+  }
+}
